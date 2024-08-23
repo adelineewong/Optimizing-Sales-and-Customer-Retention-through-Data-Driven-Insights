@@ -17,7 +17,7 @@ Dataset terdiri dari empat kategori utama:
 
 - Mengidentifikasi faktor-faktor kunci yang mempengaruhi penjualan dan retensi customer.
 - Menganalisis segmentasi customer untuk menyesuaikan strategi pemasaran dengan lebih efektif.
-- Mengevaluasi efektivitas kampanye untuk mengoptimalkan promosi di masa depan.
+- Mengevaluasi efektivitas campaign untuk mengoptimalkan promosi di masa depan.
 - Memberikan rekomendasi berdasarkan data untuk meningkatkan keterlibatan customer dan meningkatkan profitabilitas.
 
 **Key Findings**
