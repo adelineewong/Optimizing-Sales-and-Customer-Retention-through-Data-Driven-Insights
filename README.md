@@ -1,4 +1,4 @@
-# Purwadhika-CAPSTONE-Modul-2
+# Optimizing Sales and Customer Retention through Data-Driven Insights
 ## Customer Analysis Project
 
 **Overview**
