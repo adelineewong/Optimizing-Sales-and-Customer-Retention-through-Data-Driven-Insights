@@ -37,3 +37,6 @@ Dataset terdiri dari empat kategori utama:
 **Conclusion**
 
 Proyek ini memberikan wawasan berharga tentang perilaku customer dan menawarkan rekomendasi strategis untuk mengoptimalkan upaya pemasaran dan meningkatkan kinerja penjualan secara keseluruhan. Dengan memanfaatkan analisis berbasis data, perusahaan dapat lebih memahami customernya dan membuat keputusan yang lebih tepat untuk meningkatkan profitabilitas dan loyalitas customer.
+
+**Tableau Link**
+https://public.tableau.com/app/profile/adeline.wong5637/viz/CAPSTONEPROJECT2-AdelineWong/CustomerOverviewDashboard
